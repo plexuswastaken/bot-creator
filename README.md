@@ -8,7 +8,7 @@ bot creator made in python
 
 ## ❗ How to use
 - Make a file called "proxies.txt", "tokens.txt" and whatever else the script requires
-- Add tokens to tokens.txt | Need help? Join this (server)[https://discord.gg/proofs]
+- Add tokens to tokens.txt | Need help? Join this [server](https://discord.gg/proofs)
 
 
 
