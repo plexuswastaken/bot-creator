@@ -7,4 +7,4 @@ bot creator made in python
 - The debug is ugly since this is an old script, feel free to change
 
 
-![image info](/image.png)
+![image info](/image_2023-09-23_131305010.png)
